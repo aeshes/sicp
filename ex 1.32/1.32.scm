@@ -9,7 +9,7 @@
 
 ; The arguments term, a, next, and b serve the same purpose as they did in sum and product.
 ; The new arguments are combiner, which takes a procedure of two arguments that specifies
-; how the current term should be combined with the accumulation of all the preceding terms,
+; how the current term should be combined with the accumulation of all the preceding terms, 
 ; and null-value, which specifies what base value to use when the terms run out.
 
 ; Recursive version of accumulate
